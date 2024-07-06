@@ -8,9 +8,9 @@ export default function Home() {
       <section className="remove-scrollbar container my-auto">
         <div className="sub-container max-w-[496px]">
           <Image
-            src="/assets/icons/logo-full.png"
+            src="/assets/icons/logo-full.svg"
             alt="logo"
-            className="mg-12 h-10 w-fit"
+            className="mb-12 h-10 w-fit"
             height={1000}
             width={1000}
           />
